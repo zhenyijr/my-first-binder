@@ -2,3 +2,5 @@ name: binder
 dependencies:
   - python=3.11
   - numpy
+  - pandas
+  - matplotlib
